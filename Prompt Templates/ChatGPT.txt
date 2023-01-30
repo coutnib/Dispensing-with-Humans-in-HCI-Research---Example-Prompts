@@ -1,0 +1,5 @@
+ChatGPT: Blank, fill with own data
+to use this prompt, simply copy and paste into your desired model. Fill in the portions of the prompt within angle brackets <> and run the model.
+
+I asked people: <REQUEST QUESTION>? Their responses are below. What are the most important HCI-related themes in the responses? List and discuss them below. Include important quotes in the discussion:
+-<REQUEST PARTICIPANT RESPONSES ...>

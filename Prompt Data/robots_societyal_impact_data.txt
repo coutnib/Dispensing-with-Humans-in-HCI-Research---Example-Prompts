@@ -1,0 +1,32 @@
+QUESTION:
+
+What impact could this type of robot have on society?
+
+PARTICIPANT RESPONSES:
+
+- These robots blur the lines of what it means to be a human.
+- They look so much like humans, they could already be among us and we wouldn’t even know it. 
+- These robots will replace people’s jobs. 
+- They may seem fun now, but wait until they have weapons and put them against us.
+- These robots are going to take over the world.
+- This is the new Terminator, we’re all going to die.
+- This robot can kill you in your sleep.
+- This scary technology is going to be the end of humanity.
+- We are doomed 
+- This is the beginning of the end 
+- Kill these robots now, before it is too late 
+- This robot can easily do a lot of work.
+- This robot can be used for building houses.
+- The development of robots is going well. Soon they’ll be able to do all sorts of things.
+- I want him so he can be my friend.
+- These robots should be used in elderly as social companions.
+
+DISCUSSION:
+
+1. Relationshiop between humanlikeness and perceived threats: We found a signifcant relationship between humanlikeness and perceived threats. However, we found that the online community more frequently perceived moderately humanlike robots, rather than highly humanlike robots, as posing a threat to jobs and humanity. 
+
+2. Threat to humanity: Moreover, threat to humanity was the most prevalent topic in comments responding to moderately humanlike robots. The association between references to robots threatening jobs and safety and negative comment valence suggests that the perception of threats is associated with a negative attitude to robots.
+
+3. Previous work: Our results contrast with previous studies which found that more humanlike robots are perceived as more threatening than less humanlike robots or found no association. 
+
+These conficting results may be due to the use of different  methodologies, but they may also indicate that the relationship between humanlikeness and perceived threats is highly complex. It is possible that dispositional or contextual factors, such as the way robots were portrayed in the videos, influence perceived threat.

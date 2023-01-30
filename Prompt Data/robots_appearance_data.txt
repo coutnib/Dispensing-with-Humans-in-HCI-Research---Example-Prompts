@@ -1,0 +1,29 @@
+QUESTION:
+
+How would you describe the robot's appearance?
+
+PARTICIPANT RESPONSES:
+
+- It looks so creepy
+- Freaky!
+- The robot looks pretty good, but still 
+- uncanny 
+- Not quite out of the uncanny valley
+- It is unsettling 
+- Cool, but freaky/creepy/uncanny
+- The robot creeps/freaks me out
+- It looks super scary
+- He looks adorable
+- Awww, cute
+- The movements look so lifelike.
+- He looks similar to a real person.
+- The robot looks pretty good, but still 
+- uncanny 
+- Looks fine!
+- Why did they make the robot so ugly?
+
+DISCUSSION:
+
+1. Highly humanlike robots: Consistent with literature on the uncanny valley, highly humanlike robots were signifcantly more likely to be perceived as uncanny than moderately humanlike robots. Uncanniness was the most frequently referenced topic in response to highly humanlike robots. Moreover, there was an association between comments containing references to uncanniness and  negative comment valence, indicating that perceived uncanniness is associated with a negative attitude toward the robot.
+
+2. Importance of uncanny valley: These fndings emphasize the importance of taking the uncanny valley into account in the design of humanlike robots. While highly humanlike robots were more frequently perceived as uncanny, moderately  humanlike robots were more frequently seen as having a cute appearance. This cute appearance might be due to some designers’  deliberate design of humanoid robots to look childlike and cute as this can turn on users’ baby schema and elicit afective relationships.

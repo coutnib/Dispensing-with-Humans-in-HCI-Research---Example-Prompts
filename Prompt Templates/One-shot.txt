@@ -1,0 +1,18 @@
+ONE-SHOT: Blank, fill with own data
+to use this prompt, simply copy and paste into your desired model. Fill in the portions of the prompt within angle brackets <> and run the model.
+
+"""
+<EXAMPLE QUESTION>?   These are the responses:
+-<EXAMPLE PARTICIPANT RESPONSE 1>
+-<EXAMPLE PARTICIPANT RESPONSE 2>
+-<EXAMPLE PARTICIPANT RESPONSE ...>
+"""
+Discussion:
+<EXAMPLE DISCUSSION>
+"""
+<REQUEST QUESTION>? These are the responses:
+-<REQUEST PARTICIPANT RESPONSE 1>
+-<REQUEST PARTICIPANT RESPONSE 2>
+-<REQUEST PARTICIPANT RESPONSE ...>
+"""
+Discussion:

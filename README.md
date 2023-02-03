@@ -24,4 +24,15 @@ To use our prompts, simply copy and paste one into your desired option and hit `
 Feel free to substitute your own data to see how well it performs.  
 We are, unfortunately, unable to make our fine-tuned model or our entire dataset freely available at this time.
 
+All examples in this repository were created using data from the following papers:
+
+Daniel Madden and Casper Harteveld. 2021. “Constant Pressure of Having to Perform”: Exploring Player Health
+Concerns in Esports. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems
+(CHI ’21). Association for Computing Machinery, New York, NY, USA, Article 324, 1–14.
+
+Quirien R. M. Hover, Ella Velner, Thomas Beelen, Mieke Boon, and Khiet P. Truong. 2021. Uncanny, Sexy, and
+Threatening Robots: The Online Community’s Attitude to and Perceptions of Robots Varying in Humanlikeness
+and Gender. In Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction (HRI
+’21). Association for Computing Machinery, New York, NY, USA, 119–128. https://doi.org/10.1145/3434073.3444661
+
 This repository may be periodically updated and added to.
